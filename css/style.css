@@ -1,0 +1,26 @@
+/*img {
+    width: 100%;
+    height: auto;
+    vertical-align: top;
+}
+*/
+body {
+  background: #20262E;
+  font-family: Helvetica;
+	position: relative;
+    width: 100%;
+    height: 100%;
+    -webkit-perspective: 1200px;
+    -moz-perspective: 1200px;
+    perspective: 1200px;
+}
+body,html{ width: 100%; height: 100%;  overflow: hidden; }
+
+
+main{ width: 100%; height: 100%; overflow: auto; background-color: aquamarine; display: flex; align-items: center; justify-content: center}
+
+.content{ padding:200px; background-color: #BFBDBD; width: 600px; text-align: center}
+
+
+
+@media screen and (max-width:512px) {}
