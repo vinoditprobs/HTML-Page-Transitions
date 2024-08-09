@@ -19,4 +19,4 @@ This project demonstrates page transitions using animated fade-in and fade-out e
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/vinoditprobs/HTML-Page-Transitions.git>
